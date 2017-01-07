@@ -1,12 +1,11 @@
 /*
-
 //////////////////////////////////
 Name: function
 Author: katebah
 Date: 1/6/17
 //////////////////////////////////
-
 */
+
 // set array 
 var fruits2 = GetMeFruits(['orange','guava','grapes'])
 console.log (fruits2)
