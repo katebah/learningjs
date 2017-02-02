@@ -4,7 +4,14 @@ var object=  {
 		"make": " toyota"
 	,	"model": "rav 4"
 	,	"color": "yellow"
-}}
-console.log (object.car.make)
+	},
+	"person":{
+		"ethnicity": "yemeni"
+		,"eyecolor": "brown"
+		, "height": "average"
+		, "codinglevel": "basic"
+			}
+}
+console.log (object.person.eyecolor)
 
 
