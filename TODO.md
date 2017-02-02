@@ -1,6 +1,7 @@
 # TODO
 
-* Add Object Code (car example)
+* Add Object Code (car example) done
 * Add More documentation
-Review last session topic- functions
-more complex loops
+* Review last session topic- functions
+* more complex loops
+* complex object code 
