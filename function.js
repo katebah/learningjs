@@ -13,7 +13,7 @@ console.log (AddLastName(['khawla']))
 console.log (AddLastName(['marwat']))
 console.log (AddLastName(['mohammed']))
 console.log (GetMeTheDate())
-//Return string of fruits
+//Return  string of fruits
 function AddLastName(more_pals) {
 	return more_pals.concat(['alolefi']).join (' ') // concat both arrays
 	//message = results.join(' ') // turn array into string
